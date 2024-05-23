@@ -1891,8 +1891,8 @@ plt.show()
 ```
 
 
-    
-![png](output_19_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/2_diamond%20colors%20for%20price.png">    
+
     
 
 
@@ -1918,8 +1918,8 @@ plt.show()
 ```
 
 
-    
-![png](output_20_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/3_diamond%20clarity%20for%20price.png">    
+
     
 
 
@@ -2187,8 +2187,8 @@ ax = sns.pairplot(df, hue="cut", palette=cols)
 ```
 
 
-    
-![png](output_27_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/4_bivariat%20pairplot.png">    
+
     
 
 
@@ -2208,8 +2208,8 @@ plt.show()
 ```
 
 
-    
-![png](output_30_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/5_price%20vs%20y.png">    
+
     
 
 
@@ -2221,8 +2221,8 @@ plt.show()
 ```
 
 
-    
-![png](output_31_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/6_price%20vs%20z.png">    
+
     
 
 
@@ -2234,8 +2234,8 @@ plt.show()
 ```
 
 
-    
-![png](output_32_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/7_price%20vs%20depth.png">    
+
     
 
 
@@ -2247,8 +2247,8 @@ plt.show()
 ```
 
 
-    
-![png](output_33_0.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/8_price%20vs%20table.png">    
+
     
 
 
@@ -2492,8 +2492,8 @@ sns.heatmap(corrmat,cmap=cols,annot=True)
 
 
 
-    
-![png](output_44_1.png)
+<img src="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/9_matriks%20korelasi.png">    
+
     
 
 
