@@ -1864,7 +1864,7 @@ plt.show()
 ```
 
 
-<img src ="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/diamond%20cut%20for%20price.png">    
+<img src ="https://github.com/syauqiraihan/Project_Data_Mining_Prediksi_Harga_Diamond_With_ML/blob/main/Gambar/1_diamond%20cut%20for%20price.png">    
 
     
 
