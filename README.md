@@ -1,4 +1,8 @@
 # Project_Data_Mining_Prediksi_Harga_Diamond_With_ML
+
+untuk mendownload data bisa akses [link berikut](https://drive.google.com/drive/folders/1IRG069z2OwI5KDBwN0M1G3AUNNsQ2iU4)!
+
+untuk melihat PPT dalam model canva bisa akses [link berikut](https://www.canva.com/design/DAGGJKAbXnk/0m84Eo5uKyIXvEzNqCV6Ug/edit)!
 # 1. BUSINESS UNDERSTANDING
 
 Tujuan: Memprediksi harga diamond
